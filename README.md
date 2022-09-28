@@ -2,11 +2,7 @@
 
 Welcome to the fourth SwiftUI Animation Challenge where we hand out animation challenges that everyone can participate in and solve.
 
-This week's challenge is all about the Dynamic Island that was recently announced for the iPhone 14 Pro and Pro Max. Here is the announcement video for the Challenge:
-
-<p align="center">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/0D3DGeHOhmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+This week's challenge is all about the Dynamic Island that was recently announced for the iPhone 14 Pro and Pro Max. Here is the [link to the announcement video](https://youtu.be/0D3DGeHOhmM) for the challenge.
 
 It is **NOT** necessary to use the real API, you can just create any fun animation that you like. We found a few nice implementations for you to have a look at and get inspired by:
 
